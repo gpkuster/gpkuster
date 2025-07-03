@@ -22,6 +22,6 @@ I'm currently experimenting with smart contract vulnerabilities, security patter
 Feel free to connect or reach out via:
 
 - [LinkedIn](https://www.linkedin.com/in/guillermo-pastor-küster-640133183/)
-- Email: gpastor.kuster@gmail.com
+- gpastor.kuster@gmail.com
 
 Thanks for visiting my profile! 🚀
