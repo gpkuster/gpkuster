@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Guillermo Pastor!
 
-I'm a **Backend Developer** with a strong focus on **Java** and **Spring Boot**. I enjoy building reliable, scalable APIs and working on clean architecture and microservices.
+I'm a **Backend Engineer** with a strong focus on **Java** and **Spring Boot**. I enjoy building reliable, scalable APIs and working on clean architecture and microservices.
 
 ## 🧠 Currently Learning
 
