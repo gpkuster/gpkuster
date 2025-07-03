@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there, I'm Guillermo Pastor!
 
-<!--
-**gpkuster/gpkuster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Backend Developer** with a strong focus on **Java** and **Spring Boot**. I enjoy building reliable, scalable APIs and working on clean architecture and microservices.
 
-Here are some ideas to get you started:
+## 🧠 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm expanding my skills into the world of **Web3** and **smart contracts**, specifically using **Solidity** and **Ethereum development tools** like Remix and Foundry.
+
+## 🛠️ Tech Stack
+
+- **Languages**: Java, SQL, Solidity
+- **Frameworks**: Spring Boot, JPA, Foundry
+- **Tools**: Git, Postman, Maven, Gradle, IntelliJ, VSC
+- **Databases**: PostgreSQL
+
+## 📚 Side Projects & Labs
+
+I'm currently experimenting with smart contract vulnerabilities, security patterns (like CEI), and backend services integration with blockchain.
+
+## 📫 How to reach me
+
+Feel free to connect or reach out via:
+
+- [LinkedIn](https://www.linkedin.com/in/guillermo-pastor-küster-640133183/)
+- Email: gpastor.kuster@gmail.com
+
+Thanks for visiting my profile! 🚀
