@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Guille!
 
-I'm a [**Backend Engineer**](https://github.com/guillermo-pastor) with a strong focus on **Java** and **Spring Boot**. I enjoy building reliable, scalable APIs and working on clean architecture and microservices.
+I'm a [**Backend Engineer**](https://github.com/guillermo-pastor) with a strong focus on **Java** and **Spring Boot**. I enjoy building reliable, scalable web services and working on clean architecture and microservices.
 
 ## 🧠 Currently Learning
 
