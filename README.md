@@ -6,16 +6,16 @@ I'm a [**Backend Engineer**](https://github.com/guillermo-pastor) with a strong 
 
 I'm expanding my skills into the world of **Web3** and **smart contracts**, specifically using **Solidity** and **Ethereum development tools** like Remix and Foundry.
 
+## 📚 Side Projects & Labs (Blockchain)
+- I'm actively contributing to an open source project for issuing cibersecurity learning certificates. Find the code on [hack-chain](https://github.com/RicardoMuchacho/hack-chain).
+- I'm currently experimenting with smart contract vulnerabilities, solidity development and backend services integration with blockchain.
+
 ## 🛠️ Tech Stack
 
 - **Languages**: Java, SQL, Solidity
 - **Frameworks**: Spring Boot, JPA, Foundry
 - **Tools**: Git, Postman, Maven, Gradle, IntelliJ, VSC
 - **Databases**: PostgreSQL
-
-## 📚 Side Projects & Labs
-
-I'm currently experimenting with smart contract vulnerabilities, security patterns (like CEI), and backend services integration with blockchain.
 
 ## 📫 How to reach me
 
