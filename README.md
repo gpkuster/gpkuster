@@ -8,8 +8,8 @@ Backend Engineer with a strong focus on **Java** and **Spring Boot**. I enjoy bu
 - Also learning new backend technologies such as **Node.js** and **Go**.
 
 ## Side Projects & Labs (Blockchain, Backend)
-- I've contributed to an open source project for issuing cibersecurity learning certificates. Find the code on [hack-chain](https://github.com/RicardoMuchacho/hack-chain).
 - I'm currently experimenting with smart contract vulnerabilities, solidity development and backend services integration with blockchain.
+- I've contributed to an open source project for issuing cibersecurity learning certificates. Find the code on [hack-chain](https://github.com/RicardoMuchacho/hack-chain).
 
 ## Tech Stack
 
